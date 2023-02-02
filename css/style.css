@@ -207,6 +207,7 @@
     }
     .course_img {
         height: 40vh;
+        width: 100%;
     }
 }
 @media screen and (max-width: 1190px) {
