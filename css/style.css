@@ -205,6 +205,9 @@
         justify-content: center;
         align-items: center;
     }
+    .course_img {
+        height: 40vh;
+    }
 }
 @media screen and (max-width: 1190px) {
     .course_box {
